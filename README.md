@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **CerinSeo/CerinSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👥 Community & Activities
-- **WE IT 6기(2024)**
+- **WE IT 6기 (2024)**
 - **Apple Developer Academy 4기 (2025~)** 
 
 
